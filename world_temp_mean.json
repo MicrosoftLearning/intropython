@@ -1,0 +1,44 @@
+[
+        {
+          "city": "Beijing",
+          "country": "China",
+          "month ave: highest high": "30.9",
+          "month ave: lowest low": "-8.4"
+        },
+        {
+          "city": "Cairo",
+          "country": "Egypt",
+          "month ave: highest high": "34.7",
+          "month ave: lowest low": "1.2"
+        },
+        {
+          "city": "London",
+          "country": "UK",
+          "month ave: highest high": "23.5",
+          "month ave: lowest low": "2.1"
+        },
+        {
+          "city": "Nairobi",
+          "country": "Kenya",
+          "month ave: highest high": "26.3",
+          "month ave: lowest low": "10.5"
+        },
+        {
+          "city": "New York City",
+          "country": "USA",
+          "month ave: highest high": "28.9",
+          "month ave: lowest low": "-2.8"
+        },
+        {
+          "city": "Sydney",
+          "country": "Australia",
+          "month ave: highest high": "26.5",
+          "month ave: lowest low": "8.7"
+        },
+        {
+          "city": "Toyko",
+          "country": "Japan",
+          "month ave: highest high": "30.8",
+          "month ave: lowest low": "0.9"
+        }
+    ]
